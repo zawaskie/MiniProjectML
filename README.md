@@ -1,1 +1,2 @@
 # MiniProjectML
+Project Description:Proyek ini bertujuan untuk melakukan klasifikasi dataset kanker payudara menggunakan algoritma K-Nearest Neighbors (KNN). Dataset yang digunakan adalah Breast Cancer Wisconsin Dataset dari scikit-learn. Proyek ini mencakup tahapan pemrosesan data, pemisahan dataset menjadi data latih dan uji, pelatihan model KNN, serta evaluasi performa model berdasarkan metrik akurasi, presisi, dan recall.
